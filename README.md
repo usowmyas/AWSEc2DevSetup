@@ -8,7 +8,7 @@ sudo yum update
 sudo yum install -y docker
 ```
 
-## START docker and give necessary permissions
+## START give necessary permissions and start docker
 ```bash
 sudo usermod -a -G docker ec2-user
 sudo service docker start
