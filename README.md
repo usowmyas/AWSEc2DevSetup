@@ -20,5 +20,6 @@ exit
 
 # Re-login , check docker & docker-compose versions
 docker --version
+
 docker-compose --version
 
